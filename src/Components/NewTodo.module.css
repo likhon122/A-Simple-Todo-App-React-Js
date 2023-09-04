@@ -1,0 +1,39 @@
+.form {
+  background-color: #276a76;
+  height: 100px;
+  width: 500px;
+  border-radius: 12px;
+  margin-bottom: 5px;
+  border: 1px solid #ffff;
+  padding: 10px;
+}
+.input {
+  outline: none;
+  border: none;
+  padding: 5px 5px 5px 10px;
+  margin-left: 15px;
+  width: 80%;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+.textarea {
+  outline: none;
+  border: none;
+  font-size: 15px;
+  padding: 3px;
+  height: 35px;
+  width: 70%;
+  border-radius: 12px;
+}
+.addTodoButton {
+  width: 40%;
+  margin-left: 150px;
+  padding: 5px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  color: #ffff;
+  background-color: #004040;
+  cursor: pointer;
+  margin-top: 2px;
+}

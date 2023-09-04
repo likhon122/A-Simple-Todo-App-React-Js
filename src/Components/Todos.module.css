@@ -1,0 +1,10 @@
+.TodoBody {
+  border: 1px solid #ffff;
+  width: 500px;
+  max-height: 500px;
+  height: 400px;
+  padding: 10px;
+  overflow: auto;
+  background-color: #276a76;
+  border-radius: 12px;
+}
